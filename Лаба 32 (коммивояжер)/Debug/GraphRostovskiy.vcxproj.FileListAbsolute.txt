@@ -1,0 +1,8 @@
+F:\cppFIles\GraphRostovskiy\Debug\GraphRostovskiy.exe
+F:\cppFIles\GraphRostovskiy\Debug\GraphRostovskiy.pdb
+C:\Users\пк\Desktop\GraphRostovskiy\Debug\GraphRostovskiy.exe
+C:\Users\пк\Desktop\GraphRostovskiy\Debug\GraphRostovskiy.pdb
+C:\Users\Николай\Downloads\GraphRostovskiy\GraphRostovskiy\Debug\GraphRostovskiy.exe
+C:\Users\Николай\Downloads\GraphRostovskiy\GraphRostovskiy\Debug\GraphRostovskiy.pdb
+C:\Users\Николай\source\repos\Graph\Debug\Kommi.exe
+C:\Users\Николай\source\repos\Graph\Debug\Kommi.pdb
