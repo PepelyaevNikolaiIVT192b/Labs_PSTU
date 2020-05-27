@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\Николай\source\repos\calc\calc\MyForm.h(438,17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Николай\source\repos\calc\calc\MyForm.h(505): warning C4715: calc::MyForm::sw: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  calc.vcxproj -> C:\Users\Николай\source\repos\calc\Debug\calc.exe
